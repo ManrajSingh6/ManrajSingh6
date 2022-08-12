@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Manraj Singh
-- 🌱 I’m an apsiring software engineering, currently studying at University of Calgary
+- 🌱 I’m an apsiring software engineer, currently studying at University of Calgary
 - 💡 I am currently self-learning full-stack web development
 - ⚡ New opportunities excite me and I am always looking for further ways I can develop my skills
 - 💬 Feel free to reach out! 
