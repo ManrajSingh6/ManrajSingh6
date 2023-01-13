@@ -4,4 +4,4 @@
 - ⚡ New opportunities excite me and I am always looking for further ways I can develop my skills
 - 💬 Feel free to reach out! 
 
-Email: manrajs2025@gmail.com | [LinkedIn](https://www.linkedin.com/in/manraj-singh-uofc/) | [Website](https://manrajsingh6.github.io/)
+Email: manrajs2025@gmail.com | [LinkedIn](https://www.linkedin.com/in/manraj-singh-uofc/)
