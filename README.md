@@ -3,5 +3,3 @@
 - 💡 I'm currently self-learning full-stack web development
 - ⚡ I'm always looking for further ways I can develop my skills
 - 💬 Feel free to reach out! 
-
-Email: manrajs2025@gmail.com | [LinkedIn](https://www.linkedin.com/in/manraj-singh-uofc/)
